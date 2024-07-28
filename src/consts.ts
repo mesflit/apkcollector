@@ -26,8 +26,8 @@ export const PROJECTS: Metadata = {
 
 export const SOCIALS: Socials = [
   {
-    NAME: "Telegram)",
-    HREF: "https://twitter.com/boogerbuttcheeks",
+    NAME: "Telegram",
+    HREF: "https://t.me/apkcollector",
   },
   {
     NAME: "GitHub",
