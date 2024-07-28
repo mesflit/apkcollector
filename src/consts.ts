@@ -31,7 +31,7 @@ export const SOCIALS: Socials = [
   },
   {
     NAME: "GitHub",
-    HREF: "https://github.com/trevortylerlee",
+    HREF: "https://github.com/mesflit",
   },
  
 ];
