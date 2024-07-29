@@ -2,7 +2,7 @@ import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
   TITLE: "Apk Collector",
-  DESCRIPTION: "A site that gives you reverse engineering lessons.",
+  DESCRIPTION: "Updated mod apks",
   EMAIL: "mj2ypjwe@anonaddy.me",
   NUM_POSTS_ON_HOMEPAGE: 5,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
@@ -10,18 +10,18 @@ export const SITE: Site = {
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "A site that gives you reverse engineering lessons.",
+  DESCRIPTION: "Updated mod apks",
 };
 
 export const BLOG: Metadata = {
   TITLE: "Blog",
-  DESCRIPTION: "A site that gives you reverse engineering lessons.",
+  DESCRIPTION: "Updated mod apks",
 };
 
 export const PROJECTS: Metadata = {
   TITLE: "Projects",
   DESCRIPTION:
-    "A site that gives you reverse engineering lessons.",
+    "Updated mod apks",
 };
 
 export const SOCIALS: Socials = [
